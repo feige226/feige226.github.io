@@ -1,0 +1,15 @@
+Origin: feige226 的源
+Label: feige226 的源
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: feige226 的越狱软件源
+Support: https://feige226.github.io/feige226.github.io/
+MD5Sum:
+ 90d9602a202649fd4f2575b836770e19  1383 Packages
+ 862446b5fada8620f565aae632299416  751 Packages.gz
+SHA256:
+ b4a4b17d4f191f8d34411bd57bb28190d75918ee544b30512bb150cdcbeec8d2  1383 Packages
+ 8b130d5a56532416d295727d1565a247a0e4d49db53f9b245208146ba26d3447  751 Packages.gz
