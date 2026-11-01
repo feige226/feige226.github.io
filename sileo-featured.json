@@ -1,0 +1,13 @@
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{390, 230}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+      "url": "",
+      "title": "",
+      "package": "com.tlzypjy.help",
+      "hideShadow": true
+    }
+  ]
+}
